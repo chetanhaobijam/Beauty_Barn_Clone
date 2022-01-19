@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  background-color: hotpink;
+  scroll-behavior: smooth;
+}
+
+h1 {
+  -webkit-text-decoration: underline brown wavy;
+          text-decoration: underline brown wavy;
+  cursor: progress;
+}
