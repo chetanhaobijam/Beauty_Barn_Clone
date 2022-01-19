@@ -1,5 +1,5 @@
 #Ignore SCSS Files
-.scss
+*.scss
 
 #Ignore SCSS Folder
-./scss
+scss
